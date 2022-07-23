@@ -56,7 +56,7 @@
 
 * 👉 [GitHub | Netlify CMS | Open-Source Content Management System](https://www.netlifycms.org/docs/github-backend/)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/leicancun/hexo-blog-netlify.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/xiaoioi/hexo-blog-netlify.git)
 
 ## 待改进
 
