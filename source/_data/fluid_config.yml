@@ -1,12 +1,12 @@
 navbar:
-  blog_title: "演示站点"
+  blog_title: "晓啸小窝"
   ground_glass:
     enable: true
 index:
   banner_img: /images/uploads/background.webp
   banner_img_height: 100
   slogan:
-    text: "这是一个演示博客,可以登陆后台实际测试效果"
+    text: "咕咕咕"
 post:
   banner_img: /images/uploads/mmexport1602581319886.webp
   banner_img_height: 70
